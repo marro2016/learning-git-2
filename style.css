@@ -1,0 +1,43 @@
+body {
+	margin: 0 auto;
+	background-color: #CCC;
+}
+.container {
+	margin: 0 auto;
+	max-width: 700px;
+}
+header {
+padding: 30px;
+background-color: grey;
+text-align:center;
+}
+header h1 {
+	 font-weight: bold;
+	 font-size: 48px;
+	 color: orange;
+}
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+section {
+text-align:justify;
+margin-left:30%;
+margin-right:30%;
+}
+.zwrotka1 {
+    color: #ffff00;
+}
+.zwrotka2 {
+	color:#ffff33;
+}
+.zwrotka3 {
+	color:#ffff66;
+}
+footer {
+    margin-top: 60px;
+    padding: 30px;
+    background: #333333;
+    color: orange;
+}
+
